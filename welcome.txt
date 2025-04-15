@@ -1,0 +1,1 @@
+Git resolve Conflics in pull request
